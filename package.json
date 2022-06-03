@@ -12,7 +12,7 @@
     "@synzen/discord-rest": "^0.1.1",
     "compression": "^1.7.4",
     "connect-mongo": "^3.2.0",
-    "discord.js": "^12.5.1",
+    "discord.js": "^13.7.0",
     "express": "^4.17.1",
     "express-joi-validation": "^4.0.3",
     "express-rate-limit": "^5.2.3",
@@ -31,7 +31,7 @@
     "stemmer": "^1.0.5"
   },
   "peerDependencies": {
-    "monitorss": "^6.14.6"
+    "monitorss": "git+https://github.com/lewd-tech/MonitoRSS"
   },
   "devDependencies": {
     "@types/jest": "^25.2.3",
